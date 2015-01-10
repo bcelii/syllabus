@@ -79,9 +79,10 @@ Start by creating a repo in the smu-gui-spring-2015 organization and naming it a
 ###Assignment 1
 
 * create your repo in our class github org
-* clone the repo to your lyle user
+* clone the repo to your lyle user's public_html folder
 * add an index.html file to the repo
 * add some text to the html file introducing the project you will be working on throughout the semester
+* commit your changes and push the repo back up to github
 
 Assignement Graded on:
 
