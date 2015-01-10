@@ -63,17 +63,31 @@ There is no textbook required for this course, but there will be assigned readin
 * 60 – 66: D
 * 0 – 60: F
 
-###Quizzes
+##Quizzes
 
 There will be a quiz every week.  I will drop the lowest quiz grade.  There may be opportunities to earn back points on your quizzes throughout the semester, but for the most part the quizzes will not be difficult for anyone regularily attending class.
 
 
-###Assignments
+##Assignments
 
 * each student will select a project site that they will contribute to as the semester progresses
 * each assignemnt will be to apply a concept learned during lecture on their project site
+* there will be roughly one assignment per week
 
-Start by cloning the starting repo into the smu-gui-spring-2015 organization and renaming it after yourself.  Then clone that repo to your Lyle engr unix public_html folder.
+Start by creating a repo in the smu-gui-spring-2015 organization and naming it after yourself.  You may use your real name or your github username. Then clone that repo to your Lyle engr unix public_html folder.
+
+###Assignment 1
+
+* create your repo in our class github org
+* clone the repo to your lyle user
+* add an index.html file to the repo
+* add some text to the html file introducing the project you will be working on throughout the semester
+
+Assignement Graded on:
+
+- [ ] Use of git and github
+- [ ] Site visibile in browser 
+- [ ] Topic approval
 
 
 ###Projects
@@ -84,6 +98,18 @@ Start by cloning the starting repo into the smu-gui-spring-2015 organization and
 ##Lectures
 
 ###Lecture 1 - Jan 16
+
+**In class**
+
+* Run through syllabus
+* Introduce independent project
+* Git basics
+* Lyle engr unix basics
+
+**Homework**
+
+* Assignment 1 - due before lecture 2
+
 
 ###Lecture 2 - Jan 19
 
