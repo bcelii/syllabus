@@ -33,7 +33,7 @@ There is no textbook required for this course, but there will be assigned readin
 * github account
 * access to your lyle unix engr account
 	* email support@lyle.smu.edu for credentials if you don't have them
-* highly reccomended: AWS account
+* highly recommended: AWS account
 
 ###Course Topics
 
@@ -71,7 +71,7 @@ There will be a quiz every week.  I will drop the lowest quiz grade.  There may 
 ##Assignments
 
 * each student will select a project site that they will contribute to as the semester progresses
-* each assignemnt will be to apply a concept learned during lecture on their project site
+* each assignment will be to apply a concept learned during lecture on their project site
 * there will be roughly one assignment per week
 
 Start by creating a repo in the smu-gui-spring-2015 organization and naming it after yourself.  You may use your real name or your github username. Then clone that repo to your Lyle engr unix public_html folder.
@@ -84,7 +84,7 @@ Start by creating a repo in the smu-gui-spring-2015 organization and naming it a
 * add some text to the html file introducing the project you will be working on throughout the semester
 * commit your changes and push the repo back up to github
 
-Assignement Graded on:
+Assignment Graded on:
 
 - [ ] Use of git and github
 - [ ] Site visibile in browser 
