@@ -65,7 +65,7 @@ There is no textbook required for this course, but there will be assigned readin
 
 ##Quizzes
 
-There will be a quiz every week.  I will drop the lowest quiz grade.  There may be opportunities to earn back points on your quizzes throughout the semester, but for the most part the quizzes will not be difficult for anyone regularily attending class.
+There will be a quiz most weeks.  I will drop the lowest quiz grade.  There may be opportunities to earn back points on your quizzes throughout the semester, but for the most part the quizzes will not be difficult for anyone regularily attending class.
 
 
 ##Assignments
