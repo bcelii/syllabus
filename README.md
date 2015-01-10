@@ -1,4 +1,4 @@
-#CSE 3354 Graphical User Interfaces
+#CSE 3345 Graphical User Interfaces
 
 ###Spring 2015
 ###MWF 1:00PM - 1:50PM
