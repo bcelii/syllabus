@@ -194,4 +194,4 @@ Students participating in an officially sanctioned, scheduled University extracu
 
 ###Student Expectations and Responsibilities in the Classroom:
 
-For the benefit of all students, mobile phones, instant messaging, email, beepers and other sources of interruptions or diversion are not permitted. Students entering or leaving during recording sessions are kindly requested to open and close the door quietly. Food and drink are permitted if their use is discrete and and quiet.
+Use of laptops and other electronics will be allowed for class purposes.  Otherwise, they should be out of site.  Food and drink are permitted if their use is discrete and and quiet. If you are running late, do not make a scene as you find a seat. 
