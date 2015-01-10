@@ -110,6 +110,7 @@ Assignement Graded on:
 **Homework**
 
 * Assignment 1 - due before lecture 2
+* submit questions as issues against the syllabus repo and I will clarify by updating the syllabus 
 
 
 ###Lecture 2 - Jan 19
