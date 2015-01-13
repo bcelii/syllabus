@@ -113,93 +113,91 @@ Assignment Graded on:
 * submit questions as issues against the syllabus repo and I will clarify by updating the syllabus 
 
 
-###Lecture 2 - Jan 19
+###Lecture 2 - Jan 21
 
-###Lecture 3 - Jan 21
+###Lecture 3 - Jan 23
 
-###Lecture 4 - Jan 23
+###Lecture 4 - Jan 26
 
-###Lecture 5 - Jan 26
+###Lecture 5 - Jan 28
 
-###Lecture 6 - Jan 28
+###Lecture 6 - Jan 30
 
-###Lecture 7 - Jan 30
+###Lecture 7 - Feb 2
 
-###Lecture 8 - Feb 2
+###Lecture 8 - Feb 4
 
-###Lecture 9 - Feb 4
+###Lecture 9 - Feb 6
 
-###Lecture 10 - Feb 6
+###Lecture 10 - Feb 9
 
-###Lecture 11 - Feb 9
+###Lecture 11 - Feb 11
 
-###Lecture 12 - Feb 11
+###Lecture 12 - Feb 13
 
-###Lecture 13 - Feb 13
+###Lecture 13 - Feb 16
 
-###Lecture 14 - Feb 16
+###Lecture 14 - Feb 18
 
-###Lecture 15 - Feb 18
+###Lecture 15 - Feb 20
 
-###Lecture 16 - Feb 20
+###Lecture 16 - Feb 23
 
-###Lecture 17 - Feb 23
+###Lecture 17 - Feb 25
 
-###Lecture 18 - Feb 25
+###Lecture 18 - Feb 27
 
-###Lecture 19 - Feb 27
+###Lecture 19 - Mar 2
 
-###Lecture 20 - Mar 2
+###Lecture 20 - Mar 4
 
-###Lecture 21 - Mar 4
-
-###Lecture 22 - Mar 6
+###Lecture 21 - Mar 6
 
 ###Spring Break
 
-###Lecture 23 - Mar 16
+###Lecture 22 - Mar 16
 
-###Lecture 24 - Mar 18
+###Lecture 23 - Mar 18
 
-###Lecture 25 - Mar 20
+###Lecture 24 - Mar 20
 
-###Lecture 26 - Mar 23
+###Lecture 25 - Mar 23
 
-###Lecture 27 - Mar 25
+###Lecture 26 - Mar 25
 
-###Lecture 28 - Mar 27
+###Lecture 27 - Mar 27
 
-###Lecture 29 - Mar 30
+###Lecture 28 - Mar 30
 
-###Lecture 30 - Apr 1
+###Lecture 29 - Apr 1
 
-###Lecture 31 - Apr 3
+###Lecture 30 - Apr 3
 
-###Lecture 32 - Apr 6
+###Lecture 31 - Apr 6
 
-###Lecture 33 - Apr 8
+###Lecture 32 - Apr 8
 
-###Lecture 34 - Apr 10
+###Lecture 33 - Apr 10
 
-###Lecture 35 - Apr 13
+###Lecture 34 - Apr 13
 
-###Lecture 36 - Apr 15
+###Lecture 35 - Apr 15
 
-###Lecture 37 - Apr 17
+###Lecture 36 - Apr 17
 
-###Lecture 38 - Apr 20
+###Lecture 37 - Apr 20
 
-###Lecture 39 - Apr 22
+###Lecture 38 - Apr 22
 
-###Lecture 40 - Apr 24
+###Lecture 39 - Apr 24
 
-###Lecture 41 - Apr 27
+###Lecture 40 - Apr 27
 
-###Lecture 42 - Apr 29
+###Lecture 41 - Apr 29
 
-###Lecture 43 - May 1
+###Lecture 42 - May 1
 
-###Lecture 44 - May 4
+###Lecture 43 - May 4
 
 
 
