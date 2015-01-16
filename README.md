@@ -35,7 +35,7 @@ There is no textbook required for this course, but there will be assigned readin
 	* email support@lyle.smu.edu for credentials if you don't have them
 * highly recommended: AWS account
 
-###Course Topics
+###Course Topics and Learning Outcomes
 
 * User Interface and Design Principles
 * User Experience Principles
@@ -208,15 +208,15 @@ SMU has a student honor code. Students are expected to abide by this code. Cheat
 
 ###Disability Accommodations:  
 
-Students needing academic accommodations for a disability must first contact Ms. Rebecca Marin, Coordinator, Services for Students with Disabilities (214-768-4557) to verify the disability and establish eligibility for accommodations.  They should then schedule an appointment with the professor to make appropriate arrangements.  (See University Policy No. 2.4.)
+Students needing academic accommodations for a disability must first register with Disability Accommodations & Success Strategies (DASS).  Students can call 214-768-1470 or visit http://www.smu.edu/Provost/ALEC/DASS to begin the process.  Once registered, students should then schedule an appointment with the professor as early in the semester as possible, present a DASS Accommodation Letter, and make appropriate arrangements.  Please note that accommodations are not retroactive and require advance notice to implement.
 
 ###Religious Observance:  
 
-Religiously observant students wishing to be absent on holidays that require missing class should notify their professors in writing at the beginning of the semester, and should discuss with them, in advance, acceptable ways of making up any work missed because of the absence.  (See University Policy No. 1.9.)
+Religiously observant students wishing to be absent on holidays that require missing class should notify their professors in writing at the beginning of the semester, and should discuss with them, in advance, acceptable ways of making up any work missed because of the absence. (See University Policy No. 1.9.)
 
 ###Excused Absences for University Extracurricular Activities: 
 
-Students participating in an officially sanctioned, scheduled University extracurricular activity will be given the opportunity to make up class assignments or other graded assignments missed as a result of their participation.  It is the responsibility of the student to make arrangements with the instructor prior to any missed scheduled examination or other missed assignment for making up the work.  (University Undergraduate Catalogue)
+Students participating in an officially sanctioned, scheduled University extracurricular activity should be given the opportunity to make up class assignments or other graded assignments missed as a result of their participation. It is the responsibility of the student to make arrangements with the instructor prior to any missed scheduled examination or other missed assignment for making up the work. (University Undergraduate Catalogue)
 
 ###Student Expectations and Responsibilities in the Classroom:
 
