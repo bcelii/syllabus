@@ -90,6 +90,24 @@ Assignment Graded on:
 - [ ] Site visibile in browser 
 - [ ] Topic approval
 
+##Assignment 2
+
+* fork your repo from our organization so that you submit PRs to it from your own github user account
+* pick a user and 3 sites they might use frequently and evaluate them on each of the principles
+	* write this out in markdown in a file called assignment2.md
+	* submit this file to your repo as a pull request with assignment 2 in the title
+* integrate your assignment repo with travis CI
+* add an html validator to your .travis.yml
+	* I reccomend: https://github.com/svenkreiss/html5validator
+* define your assignment project's main user and goals - add these to your index.html file 
+	* if your site will have multiple goals just pick the goals for the 1st page a user will see when they hit your site
+
+Graded on:
+
+- [ ] use of git PRs
+- [ ] evaluation of 3 sites
+- [ ] travis ci integration
+- [ ] main user and goals determined for site
 
 ###Projects
 
@@ -115,17 +133,13 @@ Assignment Graded on:
 
 ###Lecture 2 - Jan 21
 
+**In class**
+
+* 7 principles of good UI/UX design
+
 **Assignment 2**
 
-* fork your repo from our organization so that you submit PRs to it from your own github user account
-* pick a user and 3 sites they might use frequently and evaluate them on each of the principles
-	* write this out in markdown in a file called assignment2.md
-	* submit this file to your repo as a pull request with assignment 2 in the title
-* integrate your assignment repo with travis CI
-* add an html validator to your .travis.yml
-	* I reccomend: https://github.com/svenkreiss/html5validator
-* define your assignment project's main user and goals - add these to your index.html file 
-
+* Due before lecture 4, Monday - Jan 26
 
 ###Lecture 3 - Jan 23
 
