@@ -107,13 +107,25 @@ Assignment Graded on:
 * Git basics
 * Lyle engr unix basics
 
-**Homework**
+**Assignment 1**
 
 * Assignment 1 - due before lecture 2
 * submit questions as issues against the syllabus repo and I will clarify by updating the syllabus 
 
 
 ###Lecture 2 - Jan 21
+
+**Assignment 2**
+
+* fork your repo from our organization so that you submit PRs to it from your own github user account
+* pick a user and 3 sites they might use frequently and evaluate them on each of the principles
+	* write this out in markdown in a file called assignment2.md
+	* submit this file to your repo as a pull request with assignment 2 in the title
+* integrate your assignment repo with travis CI
+* add an html validator to your .travis.yml
+	* I reccomend: https://github.com/svenkreiss/html5validator
+* define your assignment project's main user and goals - add these to your index.html file 
+
 
 ###Lecture 3 - Jan 23
 
